@@ -12,8 +12,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.2386, huella_izquierdo: 'Pie Cavo', 
       ics_derecho: 0.2346, huella_derecho: 'Pie Cavo', 
       categoria_final: 'Pie Cavo', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/1_JoseanCoronado_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/1_JoseanCoronado_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/1_JoseanCoronado_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/1_JoseanCoronado_Derecha.png'
     }
   },
   {
@@ -27,8 +27,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3266, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3666, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/2_IvanRios_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/2_IvanRios_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/2_IvanRios_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/2_IvanRios_Derecha.png'
     }
   },
   {
@@ -42,8 +42,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.318, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3906, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/3_ItzelSorjano_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/3_ItzelSorjano_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/3_ItzelSorjano_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/3_ItzelSorjano_Derecha.png'
     }
   },
   {
@@ -57,8 +57,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.403, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3488, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/4_FabioRomero_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/4_FabioRomero_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/4_FabioRomero_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/4_FabioRomero_Derecha.png'
     }
   },
   {
@@ -72,8 +72,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3697, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3746, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/5_Gonzalo Maldonado_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/5_Gonzalo Maldonado_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/5_Gonzalo Maldonado_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/5_Gonzalo Maldonado_Derecha.png'
     }
   },
   {
@@ -87,8 +87,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.47, huella_izquierdo: 'Pie Plano', 
       ics_derecho: 0.4517, huella_derecho: 'Pie Plano', 
       categoria_final: 'Pie Plano', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/6_LuisCarmen_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/6_LuisCarmen_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/6_LuisCarmen_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/6_LuisCarmen_Derecha.png'
     }
   },
   {
@@ -102,8 +102,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.5323, huella_izquierdo: 'Pie Plano', 
       ics_derecho: 0.4685, huella_derecho: 'Pie Plano', 
       categoria_final: 'Pie Plano', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/7_SebastianPerez_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/7_SebastianPerez_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/7_SebastianPerez_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/7_SebastianPerez_Derecha.png'
     }
   },
   {
@@ -117,8 +117,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3594, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.4055, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/8_MatiasFlores_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/8_MatiasFlores_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/8_MatiasFlores_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/8_MatiasFlores_Derecha.png'
     }
   },
   {
@@ -132,8 +132,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3129, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3264, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/9_SamirVillegas_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/9_SamirVillegas_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/9_SamirVillegas_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/9_SamirVillegas_Derecha.png'
     }
   },
   {
@@ -147,8 +147,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3523, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3556, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/10_VictorHoyos_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/10_VictorHoyos_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/10_VictorHoyos_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/10_VictorHoyos_Derecha.png'
     }
   },
   {
@@ -162,8 +162,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.4048, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.4451, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/11_AaronRelayza_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/11_AaronRelayza_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/11_AaronRelayza_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/11_AaronRelayza_Derecha.png'
     }
   },
   {
@@ -177,8 +177,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.4187, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.4103, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/12_LuisPanta_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/12_LuisPanta_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/12_LuisPanta_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/12_LuisPanta_Derecha.png'
     }
   },
   {
@@ -192,8 +192,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3066, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3021, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/13_IsaacRodriguez_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/13_IsaacRodriguez_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/13_IsaacRodriguez_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/13_IsaacRodriguez_Derecha.png'
     }
   },
   {
@@ -207,8 +207,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3313, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.4173, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/14_FlavioSanchez_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/14_FlavioSanchez_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/14_FlavioSanchez_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/14_FlavioSanchez_Derecha.png'
     }
   },
   {
@@ -222,8 +222,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.2256, huella_izquierdo: 'Pie Cavo', 
       ics_derecho: 0.2369, huella_derecho: 'Pie Cavo', 
       categoria_final: 'Pie Cavo', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/15_GeorgeCamacho_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/15_GeorgeCamacho_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/15_GeorgeCamacho_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/15_GeorgeCamacho_Derecha.png'
     }
   },
   {
@@ -237,8 +237,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3089, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3185, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 17/16_AlbertoElias_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/16_AlbertoElias_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/16_AlbertoElias_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/16_AlbertoElias_Derecha.png'
     }
   },
   {
@@ -252,8 +252,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.2334, huella_izquierdo: 'Pie Cavo', 
       ics_derecho: 0.3221, huella_derecho: 'Pie Normal', 
       categoria_final: 'Indeterminado', isDiscordant: true,
-      imageIzquierda: '/huellas/Sub 17/17_MiroelCoronado_Izquierda.png',
-      imageDerecha: '/huellas/Sub 17/17_MiroelCoronado_Derecha.png'
+      imageIzquierda: '/huellas/Sub_17/17_MiroelCoronado_Izquierda.png',
+      imageDerecha: '/huellas/Sub_17/17_MiroelCoronado_Derecha.png'
     }
   },
   {
@@ -267,8 +267,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.345, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3864, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 16/1_XaviCconas_Izquierda.png',
-      imageDerecha: '/huellas/Sub 16/1_XaviCconas_Derecha.png'
+      imageIzquierda: '/huellas/Sub_16/1_XaviCconas_Izquierda.png',
+      imageDerecha: '/huellas/Sub_16/1_XaviCconas_Derecha.png'
     }
   },
   {
@@ -282,8 +282,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3644, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.558, huella_derecho: 'Pie Plano', 
       categoria_final: 'Indeterminado', isDiscordant: true,
-      imageIzquierda: '/huellas/Sub 16/2_EnzoVasquez_Izquierda.png',
-      imageDerecha: '/huellas/Sub 16/2_EnzoVasquez_Derecha.png'
+      imageIzquierda: '/huellas/Sub_16/2_EnzoVasquez_Izquierda.png',
+      imageDerecha: '/huellas/Sub_16/2_EnzoVasquez_Derecha.png'
     }
   },
   {
@@ -297,8 +297,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.5453, huella_izquierdo: 'Pie Plano', 
       ics_derecho: 0.484, huella_derecho: 'Pie Plano', 
       categoria_final: 'Pie Plano', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 16/3_GabrielLumba_Izquierda.png',
-      imageDerecha: '/huellas/Sub 16/3_GabrielLumba_Derecha.png'
+      imageIzquierda: '/huellas/Sub_16/3_GabrielLumba_Izquierda.png',
+      imageDerecha: '/huellas/Sub_16/3_GabrielLumba_Derecha.png'
     }
   },
   {
@@ -312,8 +312,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.417, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.3953, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 16/4_AdrianoValdiviezo_Izquierda.png',
-      imageDerecha: '/huellas/Sub 16/4_AdrianoValdiviezo_Derecha.png'
+      imageIzquierda: '/huellas/Sub_16/4_AdrianoValdiviezo_Izquierda.png',
+      imageDerecha: '/huellas/Sub_16/4_AdrianoValdiviezo_Derecha.png'
     }
   },
   {
@@ -327,8 +327,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.4353, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.4209, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 16/5_LeandroChumbe_Izquierda.png',
-      imageDerecha: '/huellas/Sub 16/5_LeandroChumbe_Derecha.png'
+      imageIzquierda: '/huellas/Sub_16/5_LeandroChumbe_Izquierda.png',
+      imageDerecha: '/huellas/Sub_16/5_LeandroChumbe_Derecha.png'
     }
   },
   {
@@ -342,8 +342,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.3995, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.4387, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 16/6_AndreuCristobal_Izquierda.png',
-      imageDerecha: '/huellas/Sub 16/6_AndreuCristobal_Derecha.png'
+      imageIzquierda: '/huellas/Sub_16/6_AndreuCristobal_Izquierda.png',
+      imageDerecha: '/huellas/Sub_16/6_AndreuCristobal_Derecha.png'
     }
   },
   {
@@ -357,8 +357,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.2966, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.2819, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 16/7_AndreMartinez_Izquierda.png',
-      imageDerecha: '/huellas/Sub 16/7_AndreMartinez_Derecha.png'
+      imageIzquierda: '/huellas/Sub_16/7_AndreMartinez_Izquierda.png',
+      imageDerecha: '/huellas/Sub_16/7_AndreMartinez_Derecha.png'
     }
   },
   {
@@ -372,8 +372,8 @@ export const MOCK_PLAYERS: Player[] = [
       ics_izquierdo: 0.2835, huella_izquierdo: 'Pie Normal', 
       ics_derecho: 0.2669, huella_derecho: 'Pie Normal', 
       categoria_final: 'Pie Normal', isDiscordant: false,
-      imageIzquierda: '/huellas/Sub 16/8_FabrizioEstacio_Izquierda.png',
-      imageDerecha: '/huellas/Sub 16/8_FabrizioEstacio_Derecha.png'
+      imageIzquierda: '/huellas/Sub_16/8_FabrizioEstacio_Izquierda.png',
+      imageDerecha: '/huellas/Sub_16/8_FabrizioEstacio_Derecha.png'
     }
   },
 ];
